@@ -4,7 +4,6 @@
 ### About me
 As a Junior Frontend Developer, I am passionate about creating impactful and functional web experiences. With solid knowledge in HTML, CSS and JavaScript, I am committed to implementing responsive and accessible designs. I am excited to learn and apply modern frameworks such as React and Angular, always seeking to improve my skills to offer innovative solutions in collaborative projects.
 
--------
 
 <br>
 
